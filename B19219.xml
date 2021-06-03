@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties speech to the gentlemen of Yorkshire, on Thursday the fourth of August 1642 also a list of the names of the counsell of war now resident with His Maiesty.</title>
+            <author>Charles I, King of England, 1600-1649.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19219</idno><idno type="EEBO-CITATION">12253323</idno>
+  <idno type="VID">197433</idno>
+  <idno type="EEBO-PROQUEST">2240961008</idno>
+  
+            <idno type="STC">Wing C2804</idno>
+            <idno type="OCLC">12253323</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19219)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197433)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E109, no 26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties speech to the gentlemen of Yorkshire, on Thursday the fourth of August 1642 also a list of the names of the counsell of war now resident with His Maiesty.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Tho. Banks and Will. Ley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published : Yorke : Robert Barker, 1642.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Hull (England) --  History --  Siege, 1642.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197433:1"/>
+            <p>HIS MAIESTIES SPEECH TO THE Gentlemen of York<g ref="char:EOLhyphen"/>shire, on Thursday the fourth of <hi>August,</hi> 1642.</p>
+            <p>Also a List of the Names of the Counsell of W<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> now resi<g ref="char:EOLhyphen"/>dent with his Majesty.</p>
+            <figure>
+               <q xml:lang="lat">IN DOMINO CONFIDO</q>
+               <figDesc>printer's device consisting of a framed fleur-de-lis surrounded by the motto "In Domino Confido"</figDesc>
+            </figure>
+            <p>
+               <add>August 8<seg rend="sup">th</seg>
+               </add> Printed at Yorke by <hi>Robert Barker,</hi> Printer to the Kings most excellent Majesty, and reprinted at <hi>London</hi> for <hi>Tho. Banks,</hi> and <hi>Will. Ley.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="royal_blazon">
+            <pb facs="tcp:197433:2"/>
+            <p>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="speech">
+            <pb n="18" facs="tcp:197433:2"/>
+            <head>His Majesties Speech to the Gentlemen of <hi>York-shire,</hi> on <date>Thursday the fourth of <hi>August.</hi>
+               </date>
+            </head>
+            <opener>
+               <salute>Gentlemen.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen I directed that Summons should bee sent out for your meeting here this day, my prin<g ref="char:EOLhyphen"/>cipal end was, That I might give you thanks for the great forwardnesse and expressions you have made of your affections to me since I came into this Country, and to assure you, That as the whole King<g ref="char:EOLhyphen"/>dome hath great reason to value you exceedingly for it, so I shall be very unsatisfied with my selfe, till I have found some way to fixe a marke of favour, and estimation upon this County, and this People, which may tell posterity, how good Subjects you have beene, and how much Gen<g ref="char:EOLhyphen"/>tlemen; and J am confident the memory of it will grow up with my sons too, in a just acknowledgment. This was the most I intended to say to you, but there is an unquiet Spirit abroad, which every day throws in new accidents to disturb, and confound the publique Peace. How I was driven from London, when I chose this place for my safe<g ref="char:EOLhyphen"/>ty, is so notorious that all men know it, who know any thing; with what strange violence, and indignities I have been pursued, since I came hither, needs no other e<g ref="char:EOLhyphen"/>vidence, then Sir <hi>Iohn Hothams</hi> behaviour at Hull, who is now arrived at that insolence, that hee will not suffer his Treason to be longer confined within those Walls but makes Sallyes out of the Towne, upon his fellow Subjects
+<pb n="2" facs="tcp:197433:3"/>drownds their Land, burnes and plunders their houses, murthers, and with unheard of cruel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie, torments their P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns; And his with so much delight, That he would not have the patience, to wair what answer should be sent to my just demands, though in that respect, I engaged my selfe to forbeare to use any force, and kept my word; but chose the night before that came, (as if hee well knew what answer I was to receive) to act these outrages.</p>
+            <p>You see the sad effects of Feares and jealousies, the mi<g ref="char:EOLhyphen"/>se<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies they have produced; No man can tell you the least good they have brought forth, or the least evill they have prevented: What inconvenience and burthen my presence hath beene here, what disturbance it hath brought upon the publique, or grievance upon any private person, your selves are the best Iudges; And what ever scandall some men have pleased to cast upon the Cavaliers (which they intend should reach all my retinew, and by degrees shal in<g ref="char:EOLhyphen"/>volve all Gentlemen) I am confident, there hath not binany eminent disorder, or damage befallen any man, by any Per<g ref="char:EOLhyphen"/>son of my traine, or under my Protection. I am sure my di<g ref="char:EOLhyphen"/>rections have been very strict in that point, and if they had not bin observed, I think I should have heard of it by nea<g ref="char:EOLhyphen"/>rer complaints, then from London; I pray God the same care may be taken there: I am sure it hath not been. And to give you the fullest testimony of my affection to you, &amp; to the peace of this County, &amp; to shew you that no provo<g ref="char:EOLhyphen"/>ca<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n shall prouoke me to make this place the seate of the War, I have for your sakes, passed over the Conside<g ref="char:EOLhyphen"/>rations of Honour; And notwithstandi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g the reproaches every day laid on me, laid no siege to that place, that they may not have the least pretence of doing you mischiefe, but resolve by Gods help to recover Hull some other way, for that I will ever sit down under so unexcusable a Trea<g ref="char:EOLhyphen"/>son
+<pb n="3" facs="tcp:197433:3"/>no honest man can imagine. But it seemes other men are not of my minde, but resolve to make a Warre at your owne doores, whatsoever you do, or I suffer. To what purpose else is their new Generall armed with an au hority to kill and destroy all my good Subjects; their levies of Horse and Foote, some whereof are upon their March to<g ref="char:EOLhyphen"/>wards you, with Canon mounted, and the sending so many new Souldiers into <hi>Hull,</hi> when there is no ap<g ref="char:EOLhyphen"/>proach made towards it, but to sally out, and to commit Rapine, and by degrees to poure out an Army upon you: In this I must aske your advice, what you will doe for your selves, what you would have me doe for you. You see how I am stript of my Navie at Sea, which is imployed a<g ref="char:EOLhyphen"/>gainst me, of my Forts and Townes at Land, which are filled with armed men to destroy me; my Money and Pro<g ref="char:EOLhyphen"/>visions of my House taken from mee, and all my Subjects forbid and threatned if they come neere mee, that I may by famine or solitarinesse be comp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lled to yeeld to the most dishonourable Propos<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ions, and to put my Selfe and Children into the hands of a few Malignant Persons, who have entred into a combina<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion to destroy us: And all this done under pretence of a trust reposed by the People. How far you are from commi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting any such trust, most of the persons trusted by you, and your owne expressions of duty to me, hath manifested to all the world; and how farre the whole Kingdome is from avowing such a trust, hath alrea<g ref="char:EOLhyphen"/>dy, in a great measure, and I doubt not will more every day appeare, by the professions of every County: For I am wholly cast upon the affections of my people, and have no hope but in the blessing and assistance of God, the just<g ref="char:EOLhyphen"/>nesse of my cause, and the love of my Subjects, to recover what is taken from mee and them, for I may justly say they are equall losers with me.</p>
+            <pb n="4" facs="tcp:197433:4"/>
+            <p>Gentlemen, I desire you to consider what course is to be taken for your owne security from the excursions from <hi>Hull,</hi> and the violence which threatens you from thence: I will assist you any way you propose. Next, I desire you, out of the publike Provision, or your private Store, to fur<g ref="char:EOLhyphen"/>nish me with such a number of Armes (Musquets and Coslets) as you may conveniently spare, which I doe promise to see fully repaid to you: These Armes I desire may be speedily delivered to the custody of my Lord Ma<g ref="char:EOLhyphen"/>jor of Yorke, for my use, principally from those parts, which by reason of their distance from <hi>Hull</hi> are least sub<g ref="char:EOLhyphen"/>ject to the feare of violence from thence. And whosoe<g ref="char:EOLhyphen"/>ver shall so furnish me, shall be excused from their atten<g ref="char:EOLhyphen"/>dance and service at Musters, till their. Armes shall be re<g ref="char:EOLhyphen"/>stored; which may well be sooner than I can promise, or you expect. I desire nothing of you but what is necessary to be done for the preservation of Gods true Religion, the Lawes of the Land, the Liberty of the Subject, and the very being of the Kingdome of England: for 'tis too evident all these are at stake.</p>
+            <p>For the Compleating my Sonnes Regiment for the guard of my Person, under the command of my Lord of Cumberland, I referre it wholly to your selves, who have expressed such for<g ref="char:EOLhyphen"/>wardnesse in it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="list_of_names_of_war_council">
+            <pb n="5" facs="tcp:197433:4"/>
+            <head>The Names of the Counsell of Warre are these following.</head>
+            <list>
+               <item>LOrd Duke of Richmond</item>
+               <item>Lord Marquesse Hartford</item>
+               <item>Earle of Linsey</item>
+               <item>Earle of Cumberland</item>
+               <item>Earle of Bath</item>
+               <item>Earle of Southampton</item>
+               <item>Earle of Dorset</item>
+               <item>Earle of Bristoll</item>
+               <item>Earle of Carnarvan</item>
+               <item>Earle of Newport</item>
+               <item>Lord Savile</item>
+               <item>Lord Vicount Falkland</item>
+               <item>Lord Vicount Grandesson</item>
+               <item>Lord Willowby of Ersby</item>
+               <item>Lord Seaymor</item>
+               <item>Master Secretary Nicholas</item>
+               <item>Sir Iohn Culpepper</item>
+               <item>Master Comptroller</item>
+               <item>Colonell Henry Wentworth</item>
+               <item>Colonell Wilmott</item>
+               <item>Colonell William Vavasor</item>
+               <item>Colonell Feilding</item>
+               <item>Colonell Lunsford</item>
+               <item>Sir William Vuedall</item>
+               <item>Sir Iacob Ashley</item>
+               <item>Sir Thomas Glemham</item>
+               <item>Sir Nicholas Byron</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
